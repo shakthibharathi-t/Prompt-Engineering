@@ -1,0 +1,26 @@
+Problem_ID,Category,Technique,Response_Length,Completeness_Score
+1,Education,Zero-Shot,39,5
+1,Education,One-Shot,42,5
+1,Education,Few-Shot,35,5
+1,Education,Role Prompting,55,5
+1,Education,Chain-of-Thought,52,5
+2,Healthcare,Zero-Shot,47,5
+2,Healthcare,One-Shot,44,5
+2,Healthcare,Few-Shot,51,5
+2,Healthcare,Role Prompting,44,5
+2,Healthcare,Chain-of-Thought,50,5
+3,Finance,Zero-Shot,20,5
+3,Finance,One-Shot,46,5
+3,Finance,Few-Shot,39,5
+3,Finance,Role Prompting,36,5
+3,Finance,Chain-of-Thought,48,5
+4,Customer Support,Zero-Shot,48,5
+4,Customer Support,One-Shot,44,5
+4,Customer Support,Few-Shot,42,5
+4,Customer Support,Role Prompting,48,5
+4,Customer Support,Chain-of-Thought,51,5
+5,Programming,Zero-Shot,52,5
+5,Programming,One-Shot,44,5
+5,Programming,Few-Shot,38,5
+5,Programming,Role Prompting,44,5
+5,Programming,Chain-of-Thought,57,5

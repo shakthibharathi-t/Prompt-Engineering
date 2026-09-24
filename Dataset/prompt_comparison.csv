@@ -1,0 +1,6 @@
+Technique,Number_of_Responses,Average_Word_Count
+Zero-Shot,5,41.2
+One-Shot,5,44.0
+Few-Shot,5,41.0
+Role Prompting,5,45.4
+Chain-of-Thought,5,51.6
